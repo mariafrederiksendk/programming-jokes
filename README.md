@@ -35,7 +35,7 @@ npm run build
 
 ## View online
 
-Visit [mariafrederiksendk.github.io/programming-jokes.dk](https://mariafrederiksendk.github.io/programming-jokes.dk/)
+Visit [mariafrederiksendk.github.io/programming-Jokes/](https://mariafrederiksendk.github.io/programming-Jokes/)
 
 ## Contributing
 
