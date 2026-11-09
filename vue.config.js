@@ -1,6 +1,5 @@
 module.exports = {
-  // Relativ sti, så siden virker på GitHub Pages uden eget domæne,
-  // uanset hvad repoet hedder (appen har ingen router)
-  publicPath: './',
+  // GitHub Pages uden eget domæne serverer siden fra /<repo-navn>/
+  publicPath: process.env.NODE_ENV === 'production' ? '/programming-jokes.dk/' : '/',
   transpileDependencies: []
 }
