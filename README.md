@@ -15,27 +15,9 @@ A simple website for sharing and browsing programming jokes.
 - Firebase Realtime Database
 - Vue CLI
 
-## Running locally
-
-```bash
-# Install dependencies
-npm install
-
-# Run development server
-npm run serve
-```
-
-Open http://localhost:8080
-
-## Building for production
-
-```bash
-npm run build
-```
-
 ## View online
 
-Visit [programming-jokes.dk](https://programming-jokes.dk)
+Visit https://mariafrederiksendk.github.io/programming-jokes/
 
 ## Contributing
 
